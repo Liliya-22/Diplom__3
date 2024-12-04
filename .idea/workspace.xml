@@ -5,19 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c1ce59b-ad61-4839-b1da-0e2ce06523c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/Tokens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/UserRegisterResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pages/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pages/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pages/PasswordRecoveryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pages/ProfilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pages/RegistrationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pages/UserOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/AuthorizationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/ConstructorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/ProfilePageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/RedirectToLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/RegistrationErrorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/RegistrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="AuthorizationTest" />
+    </enabled-run-configurations>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2pkQn0sPrwZMwZIVlcsjb7tZaTs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -26,10 +57,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.AuthorizationTest.executor": "Run",
+    "JUnit.RegistrationTest.executor": "Run",
+    "JUnit.RegistrationTest.validDataRegistrationTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "develop3",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/liliyaozturk/Documents/diplom/Diplom__3/src/main/java/org/example/Main.java"
+    "onboarding.tips.debug.path": "/Users/liliyaozturk/Documents/diplom/Diplom__3/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
